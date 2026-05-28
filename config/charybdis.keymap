@@ -30,19 +30,14 @@
             key-positions = <31 32>;
         };
 
-        op_sq_br {
+        op_r_br {
             bindings = <&kp LEFT_PARENTHESIS>;
             key-positions = <27 28>;
         };
 
-        cl_r_br {
-            bindings = <&kp RIGHT_BRACE>;
-            key-positions = <43 44>;
-        };
-
         cl_c_br {
             bindings = <&kp RIGHT_BRACE>;
-            key-positions = <39 40>;
+            key-positions = <43 44>;
         };
 
         op_c_br {
